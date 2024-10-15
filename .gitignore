@@ -1,0 +1,19 @@
+# Ignore class files and other compiled files
+*.class
+*.jar
+*.war
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore IntelliJ IDEA specific files
+.idea/
+*.iml
+
+# Ignore files with invalid extensions
+*.invalidext
+*.badext
